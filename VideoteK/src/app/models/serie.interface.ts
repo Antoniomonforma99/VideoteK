@@ -1,4 +1,4 @@
-export interface Movie {
+export interface Serie {
     uid: string;
     title: string;
     director: string;

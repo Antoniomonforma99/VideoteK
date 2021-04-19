@@ -51,7 +51,7 @@
             
         },
         "pages": {
-            "dashboard": {},
+
             "movies": {
                 "title": "Movies",
                 "new_movie": "New Movie"
@@ -103,7 +103,8 @@
             "or_signin_with_credentials": "Or sign in with credentials",
             "sign_in_with": "Sign in with",
             "sign_in": "Sign in",
-            "remember_me": "Remember me"
+            "remember_me": "Remember me",
+            "google": "Google"
         },
         "register": {
             "or_signup_with_credentials": "Or sign up with credentials",
